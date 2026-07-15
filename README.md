@@ -4,7 +4,7 @@
 
 I build secure, scalable backend systems and modern cloud-native applications.
 
-- 💼 7+ years building enterprise software across fintech, banking and AI
+- 💼 7 years building enterprise software across fintech, banking and AI
 - 🎓 M.S. Computer Science @ Maharishi International University
 - 🌍 Based in Texas, United States
 - ☁️ Azure • AWS • Docker • Kubernetes
